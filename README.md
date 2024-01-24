@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm  currently  pursuing my bachelors. <br><br>- 🔭 I’m interested  in MACHINE LEARNING<br>- 📚 I'm currently excited to be delving into the world of machine learning. It's a field that's captured my full attention, and I'm eagerly embracing the journey of discovery<br>- ⚡ In my leisure hours, I engage in listening to music, binge watch shows and immerse myself in the world of gaming.</p>
+<p align="left">I'm  currently  in my 5th semester. <br><br>- 🔭 I’m interested  in MACHINE LEARNING<br>- 📚 I'm currently excited to be delving into the world of machine learning. It's a field that's captured my full attention, and I'm eagerly embracing the journey of discovery<br>- ⚡ In my leisure hours, I engage in listening to music, binge watch shows and immerse myself in the world of gaming.</p>
 
 ###
 
